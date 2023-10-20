@@ -77,3 +77,16 @@ _Please click on the images on right side to view my solution._
 1. Create Decision Tree Classifier and visualise it graphically.
 1. The purpose is if we feed new data to this classifier it would be able to predict right class accordingly .
 1. DataSet: https://bit.ly/3KXTdox
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task7%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Numerical_and_Textual_Analysis__of_Stock_Market_Prices.ipynb)
+
+### # Task-7 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+_Please click on the images on right side to view my solution._
+
+1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices and sentimental analysis of news headlines.
+1. Stock to analyse and predidct - SENSEX(S&P BSE SENSEX).
+1. Download historical stock prices from finance.yahoo.com.
+1. Download textual(news) data from https://bit.ly/36fFPI6
+1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
+1. You are free to select a different stock to analyze and news dataset as well while not changing the objective of task 
