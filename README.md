@@ -33,7 +33,7 @@ _Please click on the images on right side to view my solution._
 1. DataSet:http://bit.ly/3KXTdox
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task3-Exploratory%20Data%20Analysis/3.Exploratory%20Data%20Analysis.ipynb?short_path=8b13789)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task3-Exploratory%20Data%20Analysis/3.Exploratory%20Data%20Analysis%20%20.ipynb)
 
 ### # Task-3 : Exploratory Data Analysis-Retail (Level - Beginner)
 _Please click on the images on right side to view my solution._
