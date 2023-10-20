@@ -43,3 +43,16 @@ _Please click on the images on right side to view my solution._
 1. What business problems you can derive by exploring the data?
 1. You can choose any tool of your choice(Python/R/Tableau/PowerBI/Excel/SAP/SAS).
 1. DataSet: https://bit.ly/3i4rbWI
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task4-EDA-Terrorism/4.Exploratory%20Data%20Analysis-Terrorism.ipynb)
+
+### # Task-4 : Exploratory Data Analysis-Terrorism (Level - Beginner)
+_Please click on the images on right side to view my solution._
+
+1. Perform 'Exploratory Data Analysis' on dataset 'Global Terrorism'.
+1. As a security/defense analyst, try to find out the hot zone of terrorism.
+1. What all security issues and insights can derive by EDA?.
+1. You can choose any tool of your choice(Python/R/Tableau/PowerBI/Excel/SAP/SAS).
+1. DataSet: https://bit.ly/2TK5Xn5
+
