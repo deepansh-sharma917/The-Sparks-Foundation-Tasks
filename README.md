@@ -85,7 +85,7 @@ _Please click on the images on right side to view my solution._
 _Please click on the images on right side to view my solution._
 
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices and sentimental analysis of news headlines.
-1. Stock to analyse and predidct - SENSEX(S&P BSE SENSEX).
+1. Stock to analyse and predict - SENSEX(S&P BSE SENSEX).
 1. Download historical stock prices from finance.yahoo.com.
 1. Download textual(news) data from https://bit.ly/36fFPI6
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
