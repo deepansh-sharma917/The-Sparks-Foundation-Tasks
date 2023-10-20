@@ -7,7 +7,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Category** - Data Science and Business Analytics
 - **Internship Duration** - 1 Month ( October-2023 )
 - **Internship Type** - Work from Home
-- In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
+- In this internship, we were provided a total of 8 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
 
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task1-Prediction%20Using%20Supervised%20ML/Task-1%20Linear%20Regression%20Model.ipynb)
