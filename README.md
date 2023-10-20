@@ -89,4 +89,16 @@ _Please click on the images on right side to view my solution._
 1. Download historical stock prices from finance.yahoo.com.
 1. Download textual(news) data from https://bit.ly/36fFPI6
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
-1. You are free to select a different stock to analyze and news dataset as well while not changing the objective of task 
+1. You are free to select a different stock to analyze and news dataset as well while not changing the objective of task
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task8%20Timeline%20Analysis%3ACovid%2019/Covid19.ipynb)
+
+### # Task-8 : Timeline Analysis:Covid 19 (Level - Advanced)
+_Please click on the images on right side to view my solution._
+
+1. Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
+1. Use animation, timeline and annotations to create attractive and interactive dashboards and story
+1. Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts
+1. Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
+1. Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
