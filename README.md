@@ -67,3 +67,13 @@ _Please click on the images on right side to view my solution._
 1. Suggest teams or players a company should endorse for its products.
 1. You can choose any tool of your choice(Python/R/Tableau/PowerBI/Excel/SAP/SAS).
 1. DataSet: https://bit.ly/34SRn3b
+
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task6%20Prediction%20Using%20Decision%20Tree%20Algorithm/Decision%20Tree%20Algorithm.ipynb)
+
+### # Task-6 : Prediction Using Decision Tree Algorithm (Level - Intermediate)
+_Please click on the images on right side to view my solution._
+
+1. Create Decision Tree Classifier and visualise it graphically.
+1. The purpose is if we feed new data to this classifier it would be able to predict right class accordingly .
+1. DataSet: https://bit.ly/3KXTdox
