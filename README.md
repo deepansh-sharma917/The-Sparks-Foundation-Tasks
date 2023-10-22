@@ -9,7 +9,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 - In this internship, we were provided a total of 8 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/B7dV5-3NhdI?si=qz54SmkD7sQE4Xq0)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task1-Prediction%20Using%20Supervised%20ML/Task-1%20Linear%20Regression%20Model.ipynb)
 
 
@@ -22,7 +22,7 @@ _Please click on the images on right side to view my solution._
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
 1. What will be predicted score if a student studies for 9.25 hrs/ day?
    
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/X6h8AKyOATU?si=prEz5fyBxCUKIpT9)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task2-Prediction%20Using%20Unsupervised%20ML/2-Prediction%20Using%20Unsupervised%20ML.ipynb)
 
 ### #  Task-2:  Prediction using Unsupervised ML (Level - Beginner)
@@ -32,7 +32,7 @@ _Please click on the images on right side to view my solution._
 1. Use R or Python to perform this task
 1. DataSet:http://bit.ly/3KXTdox
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/seKt0pgvGAE?si=fTiTacUC5vQKuxIK)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task3-Exploratory%20Data%20Analysis/3.Exploratory%20Data%20Analysis%20%20.ipynb)
 
 ### # Task-3 : Exploratory Data Analysis-Retail (Level - Beginner)
@@ -44,7 +44,7 @@ _Please click on the images on right side to view my solution._
 1. You can choose any tool of your choice(Python/R/Tableau/PowerBI/Excel/SAP/SAS).
 1. DataSet: https://bit.ly/3i4rbWI
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/c8NqhJ0pbVU?si=NusYNZvFFo4YtkB3)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task4-EDA-Terrorism/4.Exploratory%20Data%20Analysis-Terrorism.ipynb)
 
 ### # Task-4 : Exploratory Data Analysis-Terrorism (Level - Beginner)
@@ -56,7 +56,7 @@ _Please click on the images on right side to view my solution._
 1. You can choose any tool of your choice(Python/R/Tableau/PowerBI/Excel/SAP/SAS).
 1. DataSet: https://bit.ly/2TK5Xn5
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/x_G5FwIVsew?si=MQ7XisUAE4iCAsYD)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task5-EDA-Sports/Exploratory%20Data%20Analysis%20Of%20IPL%20Data.ipynb)
 
 ### # Task-5 : Exploratory Data Analysis-Sports (Level - Advanced)
@@ -68,7 +68,7 @@ _Please click on the images on right side to view my solution._
 1. You can choose any tool of your choice(Python/R/Tableau/PowerBI/Excel/SAP/SAS).
 1. DataSet: https://bit.ly/34SRn3b
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/nFrUq72zrn0?si=zH3Wn47o398c_Ecl)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task6%20Prediction%20Using%20Decision%20Tree%20Algorithm/Decision%20Tree%20Algorithm.ipynb)
 
 ### # Task-6 : Prediction Using Decision Tree Algorithm (Level - Intermediate)
@@ -78,7 +78,7 @@ _Please click on the images on right side to view my solution._
 1. The purpose is if we feed new data to this classifier it would be able to predict right class accordingly .
 1. DataSet: https://bit.ly/3KXTdox
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/_2dN8AkhqNw?si=BXsxXqFA9onMFN9z)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task7%20Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Numerical_and_Textual_Analysis__of_Stock_Market_Prices.ipynb)
 
 ### # Task-7 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
@@ -91,7 +91,7 @@ _Please click on the images on right side to view my solution._
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
 1. You are free to select a different stock to analyze and news dataset as well while not changing the objective of task
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/ePDA-9p19fw)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/Sir3vjZplsA?si=_BV18v2BReUwDnsQ)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/deepansh-sharma917/The-Sparks-Foundation-Tasks/blob/main/Task8%20Timeline%20Analysis%3ACovid%2019/Covid19.ipynb)
 
 ### # Task-8 : Timeline Analysis:Covid 19 (Level - Advanced)
